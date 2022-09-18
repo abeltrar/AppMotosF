@@ -1,0 +1,12 @@
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Persistencia\bin\Debug\netcoreapp2.1\TallerMoto.App.Persistencia.deps.json
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Persistencia\bin\Debug\netcoreapp2.1\TallerMoto.App.Persistencia.dll
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Persistencia\obj\Debug\netcoreapp2.1\TallerMoto.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Persistencia\obj\Debug\netcoreapp2.1\TallerMoto.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Persistencia\obj\Debug\netcoreapp2.1\TallerMoto.App.Persistencia.AssemblyInfo.cs
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Persistencia\bin\Debug\netcoreapp2.1\TallerMoto.App.Persistencia.pdb
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Persistencia\bin\Debug\netcoreapp2.1\TallerMoto.App.Dominio.dll
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Persistencia\bin\Debug\netcoreapp2.1\TallerMoto.App.Dominio.pdb
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Persistencia\obj\Debug\netcoreapp2.1\TallerMoto.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Persistencia\obj\Debug\netcoreapp2.1\TallerMoto.App.Persistencia.csproj.CopyComplete
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Persistencia\obj\Debug\netcoreapp2.1\TallerMoto.App.Persistencia.dll
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Persistencia\obj\Debug\netcoreapp2.1\TallerMoto.App.Persistencia.pdb

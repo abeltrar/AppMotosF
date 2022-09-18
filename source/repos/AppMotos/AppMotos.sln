@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.916
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppMotos", "AppMotos\AppMotos.csproj", "{42383444-9BAD-4A32-94B0-DA34ED23E284}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerMoto.App.Dominio", "TallerMoto.App.Dominio\TallerMoto.App.Dominio.csproj", "{A1AE8775-51E2-4129-BE8D-8B8F2B851684}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerMoto.App.Persistencia", "TallerMoto.App.Persistencia\TallerMoto.App.Persistencia.csproj", "{86B9EE93-D95D-4618-A75E-C4F09E78DB22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerMoto.App.Consola", "TallerMoto.App.Consola\TallerMoto.App.Consola.csproj", "{11DCDE77-B888-43FF-A6E1-60E281C313F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42383444-9BAD-4A32-94B0-DA34ED23E284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42383444-9BAD-4A32-94B0-DA34ED23E284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42383444-9BAD-4A32-94B0-DA34ED23E284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42383444-9BAD-4A32-94B0-DA34ED23E284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1AE8775-51E2-4129-BE8D-8B8F2B851684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1AE8775-51E2-4129-BE8D-8B8F2B851684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1AE8775-51E2-4129-BE8D-8B8F2B851684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1AE8775-51E2-4129-BE8D-8B8F2B851684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86B9EE93-D95D-4618-A75E-C4F09E78DB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B9EE93-D95D-4618-A75E-C4F09E78DB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B9EE93-D95D-4618-A75E-C4F09E78DB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B9EE93-D95D-4618-A75E-C4F09E78DB22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11DCDE77-B888-43FF-A6E1-60E281C313F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11DCDE77-B888-43FF-A6E1-60E281C313F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11DCDE77-B888-43FF-A6E1-60E281C313F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11DCDE77-B888-43FF-A6E1-60E281C313F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7C768B6-E045-4744-8373-31F5EE8660CB}
+	EndGlobalSection
+EndGlobal

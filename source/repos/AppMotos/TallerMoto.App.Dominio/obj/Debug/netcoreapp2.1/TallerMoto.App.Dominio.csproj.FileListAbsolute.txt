@@ -1,0 +1,9 @@
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Dominio\bin\Debug\netcoreapp2.1\TallerMoto.App.Dominio.deps.json
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Dominio\bin\Debug\netcoreapp2.1\TallerMoto.App.Dominio.dll
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Dominio\obj\Debug\netcoreapp2.1\TallerMoto.App.Dominio.csprojAssemblyReference.cache
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Dominio\obj\Debug\netcoreapp2.1\TallerMoto.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Dominio\obj\Debug\netcoreapp2.1\TallerMoto.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Dominio\obj\Debug\netcoreapp2.1\TallerMoto.App.Dominio.AssemblyInfo.cs
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Dominio\bin\Debug\netcoreapp2.1\TallerMoto.App.Dominio.pdb
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Dominio\obj\Debug\netcoreapp2.1\TallerMoto.App.Dominio.dll
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Dominio\obj\Debug\netcoreapp2.1\TallerMoto.App.Dominio.pdb

@@ -1,0 +1,9 @@
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Consola\bin\Debug\netcoreapp2.1\TallerMoto.App.Consola.deps.json
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Consola\bin\Debug\netcoreapp2.1\TallerMoto.App.Consola.dll
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Consola\obj\Debug\netcoreapp2.1\TallerMoto.App.Consola.csproj.CoreCompileInputs.cache
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Consola\obj\Debug\netcoreapp2.1\TallerMoto.App.Consola.AssemblyInfoInputs.cache
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Consola\obj\Debug\netcoreapp2.1\TallerMoto.App.Consola.AssemblyInfo.cs
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Consola\bin\Debug\netcoreapp2.1\TallerMoto.App.Consola.pdb
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Consola\obj\Debug\netcoreapp2.1\TallerMoto.App.Consola.csprojAssemblyReference.cache
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Consola\obj\Debug\netcoreapp2.1\TallerMoto.App.Consola.dll
+C:\Users\pili-\source\repos\AppMotos\TallerMoto.App.Consola\obj\Debug\netcoreapp2.1\TallerMoto.App.Consola.pdb
