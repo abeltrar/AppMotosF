@@ -1,0 +1,49 @@
+﻿@page
+@model AppTallerMotoR.Pages.EditarModel
+@{
+    ViewData["Title"] = "Edición de personas";
+    var persona = Model.persona;
+}
+
+<div class="container bg-white border border-secondary rounded-25">
+    <div class="row">
+        <div class="col-md-2 col-12">
+
+        </div>
+        <div class="col-md-8 col-12">
+            <br>
+            <br>
+            <h1>Actualización de personas</h1>
+            <form method="post">
+                <input type="hidden" value="@persona.Id" id="Id" name="Id">
+                <div class="form-group">
+                    <label for="nombre">Nombres</label>
+                    <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Digite sus nombres" minlength="3" maxlength="50" value="@persona.Nombre">
+                </div>
+                <div class="form-group">
+                    <label for="apellido">Apellidos</label>
+                    <input type="text" class="form-control" id="apellido" name="apellido" placeholder="Digite sus apellidos" minlength="3" maxlength="50" value="@persona.Apellidos">
+                </div>
+                <div class="form-group">
+                    <label for="telefono">Número de telefono</label>
+                    <input type="number" class="form-control" id="telefono" name="telefono" placeholder="Digite su número teléfonico" min="3000000000" max="3999999999" step="1" value="@persona.NumeroTelefono">
+                </div>
+                <div class="form-group">
+                    <label for="genero">Genero</label>
+                    <select class="form-control" id="genero" name="genero">
+                        <option value="" selected="selected">Seleccione...</option>
+                        <option value="0">Femenino</option>
+                        <option value="1">Masculino</option>
+                    </select>
+                </div>
+                <button type="submit" class="btn btn-primary">Actualizar</button>
+                <button type="reset" class="btn btn-default">Limpiar</button>
+            </form>
+            <br>
+            <br>
+        </div>
+        <div class="col-md-2 col-12">
+
+        </div>
+    </div>
+</div>

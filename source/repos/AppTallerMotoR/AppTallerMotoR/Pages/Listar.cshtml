@@ -1,0 +1,68 @@
+﻿@page
+@model AppTallerMotoR.Pages.ListarModel
+@{
+
+
+}
+<div class=" container bg-white border border-secondary rounded-25" >
+    <div class="row">
+        <div class="col-md-2 col-sm-12">
+          
+        </div>
+        <div>
+            <br />
+            <br />
+            @{ 
+                if (ViewData["mensaje"]!= null)
+                {
+                    <div class="alert alert-primary" role="alert">
+                        @ViewData["mensaje"]
+                    </div>
+                }
+            }
+            <h1>Usuarios</h1>
+            <br />
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Nombre</th>
+                        <th>Cédula</th>
+                        <th height="100">Dirección</th>
+                        <th>Teléfono</th>
+                        <th>Rol</th>
+                        <th>Opciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var persona in Model.ListadoPersonas)
+                    {
+                        <tr>
+                            <td scope="row">@persona.IdPersona </td>
+                            <td>@persona.Nombre</td>
+                            <td>@persona.Cedula</td>
+                            <td>@persona.Direccion</td>
+                            <td>@persona.Telefono</td>
+                            <td>@persona.IdRol</td>
+                            <td>
+                                <a class="btn btn-primary" asp-page=".\Editar" asp-route-Id="@persona.IdPersona">
+                                    <i class="far fa-edit"></i>Editar
+                                </a>
+                                <a class="btn btn-default">
+                                    <i class="far fa-remove"></i>Eliminar
+                                </a>
+
+                            </td>
+
+                        </tr>
+
+                    }
+
+                </tbody>
+            </table>
+        </div>
+        <div class="col-md-2 col-sm-12">
+
+        </div>
+    </div>
+</div>

@@ -1,0 +1,16 @@
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Persistencia\bin\Debug\netcoreapp3.1\App.TallerMoto.Persistencia.deps.json
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Persistencia\bin\Debug\netcoreapp3.1\App.TallerMoto.Persistencia.runtimeconfig.json
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Persistencia\bin\Debug\netcoreapp3.1\App.TallerMoto.Persistencia.runtimeconfig.dev.json
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Persistencia\bin\Debug\netcoreapp3.1\App.TallerMoto.Persistencia.dll
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Persistencia\bin\Debug\netcoreapp3.1\App.TallerMoto.Persistencia.pdb
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Persistencia\obj\Debug\netcoreapp3.1\App.TallerMoto.Persistencia.csproj.AssemblyReference.cache
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Persistencia\obj\Debug\netcoreapp3.1\App.TallerMoto.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Persistencia\obj\Debug\netcoreapp3.1\App.TallerMoto.Persistencia.AssemblyInfoInputs.cache
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Persistencia\obj\Debug\netcoreapp3.1\App.TallerMoto.Persistencia.AssemblyInfo.cs
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Persistencia\obj\Debug\netcoreapp3.1\App.TallerMoto.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Persistencia\obj\Debug\netcoreapp3.1\App.TallerMoto.Persistencia.dll
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Persistencia\obj\Debug\netcoreapp3.1\App.TallerMoto.Persistencia.pdb
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Persistencia\obj\Debug\netcoreapp3.1\App.TallerMoto.Persistencia.genruntimeconfig.cache
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Persistencia\bin\Debug\netcoreapp3.1\App.TallerMoto.Dominio.dll
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Persistencia\bin\Debug\netcoreapp3.1\App.TallerMoto.Dominio.pdb
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Persistencia\obj\Debug\netcoreapp3.1\App.TallerMoto.Persistencia.csproj.CopyComplete

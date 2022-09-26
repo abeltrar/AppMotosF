@@ -1,0 +1,13 @@
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Dominio\bin\Debug\netcoreapp3.1\App.TallerMoto.Dominio.deps.json
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Dominio\bin\Debug\netcoreapp3.1\App.TallerMoto.Dominio.runtimeconfig.json
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Dominio\bin\Debug\netcoreapp3.1\App.TallerMoto.Dominio.runtimeconfig.dev.json
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Dominio\bin\Debug\netcoreapp3.1\App.TallerMoto.Dominio.dll
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Dominio\bin\Debug\netcoreapp3.1\App.TallerMoto.Dominio.pdb
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Dominio\obj\Debug\netcoreapp3.1\App.TallerMoto.Dominio.csproj.AssemblyReference.cache
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Dominio\obj\Debug\netcoreapp3.1\App.TallerMoto.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Dominio\obj\Debug\netcoreapp3.1\App.TallerMoto.Dominio.AssemblyInfoInputs.cache
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Dominio\obj\Debug\netcoreapp3.1\App.TallerMoto.Dominio.AssemblyInfo.cs
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Dominio\obj\Debug\netcoreapp3.1\App.TallerMoto.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Dominio\obj\Debug\netcoreapp3.1\App.TallerMoto.Dominio.dll
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Dominio\obj\Debug\netcoreapp3.1\App.TallerMoto.Dominio.pdb
+C:\Users\pili-\source\repos\AppTallerMotoR\App.TallerMoto.Dominio\obj\Debug\netcoreapp3.1\App.TallerMoto.Dominio.genruntimeconfig.cache
